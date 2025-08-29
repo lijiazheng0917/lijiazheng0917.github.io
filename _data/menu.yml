@@ -15,16 +15,25 @@ entries:
           - title: ...
       - title: Contact me
         entries:
-          - title: "<a href=\"mailto:jiazheng.li@uconn.edu\">Email</a>"
+          - title: "jiazheng.li@uconn.edu"
           - title: "<a href=\"https://github.com/lijiazheng0917\">GitHub</a>"
           - title: "<a href=\"https://www.linkedin.com/in/jiazheng-li-730169259/\">LinkedIn</a>"
           - title: "<a href=\"https://scholar.google.com/citations?user=uxxcR34AAAAJ&hl=en\">Google Scholar</a>"
 
   - title: Education
     entries:
-      - title: PhD student in Computer Science (Transferred), University of Connecticut,  2025-present
-      - title: PhD student in Computer Science, Brandeis University, 2022-2024
-      - title: B.E. in Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China 2017-2021
+      - title: |
+          PhD student in Computer Science (Transferred)<br>
+          University of Connecticut<br>
+          2025-present
+      - title: |
+          PhD student in Computer Science<br>
+          Brandeis University<br>
+          2022-2024
+      - title: |
+          B.E. in Biomedical Engineering<br>
+          Shanghai Jiao Tong University, Shanghai, China<br>
+          2017-2021
 
   - title: Industry Experience 
     entries:
