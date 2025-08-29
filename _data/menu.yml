@@ -8,14 +8,14 @@ entries:
       - title: "Advisor: Prof. <a href=\"https://chuxuzhang.github.io/\">Chuxu Zhang</a>"
         # url: https://github.com/riggraz/no-style-please
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-      - title: Research interests:
+      - title: Research interests
         entries:
           - title: large language models
           - title: graph neural networks
           - title: ...
-      - title: Contact me:
+      - title: Contact me
         entries:
-          - title: "<a href=\"jiazheng.li@uconn.edu\">Email</a>"
+          - title: "<a href=\"mailto:jiazheng.li@uconn.edu\">Email</a>"
           - title: "<a href=\"https://github.com/lijiazheng0917\">GitHub</a>"
           - title: "<a href=\"https://www.linkedin.com/in/jiazheng-li-730169259/\">LinkedIn</a>"
           - title: "<a href=\"https://scholar.google.com/citations?user=uxxcR34AAAAJ&hl=en\">Google Scholar</a>"
