@@ -15,10 +15,10 @@ entries:
           - title: ...
       - title: Contact me:
         entries:
-          - title: <a href="jiazheng.li@uconn.edu">Email</a>
-          - title: <a href="https://github.com/lijiazheng0917">GitHub</a>
-          - title: <a href="https://www.linkedin.com/in/jiazheng-li-730169259/">LinkedIn</a>
-          - title: <a href="https://scholar.google.com/citations?user=uxxcR34AAAAJ&hl=en">Google Scholar</a>
+          - title: "<a href=\"jiazheng.li@uconn.edu\">Email</a>"
+          - title: "<a href=\"https://github.com/lijiazheng0917\">GitHub</a>"
+          - title: "<a href=\"https://www.linkedin.com/in/jiazheng-li-730169259/\">LinkedIn</a>"
+          - title: "<a href=\"https://scholar.google.com/citations?user=uxxcR34AAAAJ&hl=en\">Google Scholar</a>"
 
   - title: Education
     entries:
