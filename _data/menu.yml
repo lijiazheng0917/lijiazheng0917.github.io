@@ -10,7 +10,14 @@ entries:
         entries:
           - title: large language models
           - title: graph neural networks
-          - title: ...
+          - title: anything related to AI
+      - title: More info
+        entries:
+          - title: I grew up in China.
+          - title: I love sports, especially basketball and soccer. I'm a fan of Real Madrid and LA Lakers.
+          - title: I love animals. I have a cat <img src="/assets/img/cat.jpg" alt="cat icon" height="20" width="20" /> and a dog <img src="/assets/img/dog.jpg" alt="dog icon" height="20" width="20" />.
+          - title: I love listening to R&B and Hip-Hop songs (though I am the worst singer), and I enjoy watching mystery movies.
+          - title: Recently I'm interested in fintech, especially blockchain and cryptocurrencies.
       - title: Contact me
         entries:
           - title: "jiazheng.li@uconn.edu"
@@ -36,16 +43,19 @@ entries:
   - title: Industry Experience 
     entries:
       - title: |
-          Applied Scientist Intern<br>
-          Amazon Web Services, Bay Area, USA<br>
-          06/2025-08/2025
+          Applied Scientist Intern @ Amazon Web Services, Bay Area, USA<br>
+          06/2025-08/2025<br>
+          Worked on agentic RL training
       - title: |
-          Research Intern<br>
-          Ant Group, Hangzhou, China<br>
-          06/2024-01/2025
+          Research Intern @ Ant Group, Hangzhou, China<br>
+          06/2024-01/2025<br>
+          Worked on data efficient LLM mid-training
 
   - title: Publications
     entries:
+      - title: |
+          [Arxiv 2025], <a href='https://arxiv.org/abs/2510.20022'>SALT: Step-level Advantage Assignment for Long-horizon Agents via Trajectory Graph</a><br>
+          Authors: <u>Jiazheng Li</u>, Yawei Wang, David Yan, Yijun Tian, Zhichao Xu, Huan Song, Panpan Xu, Lin Lee Cheong
       - title: |
           [Arxiv 2025], <a href='https://arxiv.org/abs/2505.15116'>Graph Foundation Models: A Comprehensive Survey</a><br>
           Authors: Zehong Wang, Zheyuan Liu, Tianyi Ma, <u>Jiazheng Li</u>, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye
@@ -53,7 +63,7 @@ entries:
           [ICML 2025], <a href='https://arxiv.org/abs/2503.14917'>MASS: MAthematical Data Selection via Skill Graphs for Pretraining Large Language Models</a><br>
           Authors: <u>Jiazheng Li</u>*, Lu Yu*, Qing Cui, Zhiqiang Zhang, Jun Zhou, Yanfang Ye, Chuxu Zhang
       - title: |
-          [KDD 2025], <a href='https://arxiv.org/abs/2503.14917'>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</a><br>
+          [KDD 2025], <a href='https://arxiv.org/abs/2506.08326'>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</a><br>
           Authors: Xingbo Fu, Zehong Wang, Zihan Chen, <u>Jiazheng Li</u>, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li
       - title: |
           [TMLR 2025], <a href='https://openreview.net/forum?id=W50i7r3DHE'>Instance-Aware Graph Prompt Learning</a><br>
