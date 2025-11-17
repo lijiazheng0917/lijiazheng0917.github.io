@@ -4,7 +4,7 @@
 entries:
   - title: About me
     entries:
-      - title: <img src="/assets/img/jiazheng.jpg" alt="Jiazheng Li" height="200" />
+      - title: <img src="/assets/img/jiazheng.jpg" alt="Jiazheng Li" height="350" />
       - title: A fourth-year CSE PhD student at UConn
       - title: "Advisor: Prof. <a href=\"https://chuxuzhang.github.io/\">Chuxu Zhang</a>"
       - title: Research interests
@@ -18,13 +18,13 @@ entries:
           - title: "<a href=\"https://github.com/lijiazheng0917\">GitHub</a>"
           - title: "<a href=\"https://www.linkedin.com/in/jiazheng-li-730169259/\">LinkedIn</a>"
           - title: "<a href=\"https://scholar.google.com/citations?user=uxxcR34AAAAJ&hl=en\">Google Scholar</a>"
-      - title: More info
+      - title: Personal life
         entries:
-          - title: I grew up in China.
+          - title: I grew up in China. My Chinese name is 李嘉政.
           - title: I love sports, especially basketball and soccer. I'm a fan of Real Madrid and LA Lakers.
           - title: I love animals. I have a <a href="/assets/img/cat.jpg">cat</a> and a <a href="/assets/img/dog.jpg">dog</a>.
           - title: I love listening to R&B and Hip-Hop songs (though I am the worst singer), and I enjoy watching mystery movies.
-          - title: Recently I'm interested in fintech, especially blockchain and cryptocurrencies.
+          - title: Recently I'm also interested in fintech, especially blockchain and crypto.
   - title: Education
     entries:
       - title: |

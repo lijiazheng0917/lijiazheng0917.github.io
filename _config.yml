@@ -1,5 +1,5 @@
-title: Jiazheng Li (李嘉政) # name of the site
-author: Jiazheng Li (李嘉政) # name of site's author
+title: Jiazheng Li # name of the site
+author: Jiazheng Li # name of site's author
 email: jiazheng.li@uconn.edu # email of site's author
 url: https://lijiazheng0917.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
