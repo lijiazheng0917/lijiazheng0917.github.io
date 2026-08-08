@@ -5,11 +5,11 @@ entries:
   - title: About me
     entries:
       - title: <img src="/assets/img/jiazheng.png" alt="Jiazheng Li" height="350" />
-      - title: A fourth-year CSE PhD student at UConn
+      - title: A fifth-year CSE PhD student at UConn
       - title: "Advisor: Prof. <a href=\"https://chuxuzhang.github.io/\">Chuxu Zhang</a>"
       - title: Research interests
         entries:
-          - title: machine learning
+          - title: Everything about LLMs
       - title: Contact me
         entries:
           - title: "jiazheng.li@uconn.edu"
@@ -22,6 +22,7 @@ entries:
           - title: I love sports, especially basketball and soccer. I'm a fan of Real Madrid and LA Lakers.
           - title: I love animals (except for bugs). I have a <a href="/assets/img/cat.jpg">cat</a> and a <a href="/assets/img/dog.jpg">dog</a>.
           - title: I love listening to R&B and Hip-Hop songs.
+          - title: I love fitness.
   - title: Education
     entries:
       - title: |
@@ -40,15 +41,15 @@ entries:
   - title: Industry Experience
     entries:
       - title: |
-          Algorithm Engineer Intern @ Alibaba, Bay Area, USA<br>
+          Algorithm Engineer Intern @ Alibaba (Accio Work team), Bay Area, USA<br>
           05/2026-present<br>
-          Worked on agentic RL 
+          Worked on LLM agentic post-training
       - title: |
-          Applied Scientist Intern @ Amazon Web Services, Bay Area, USA<br>
+          Applied Scientist Intern @ Amazon (Agent customization team), Bay Area, USA<br>
           06/2025-08/2025<br>
-          Worked on agentic RL 
+          Worked on LLM RL algorithms
       - title: |
-          Research Intern @ Ant Group, Hangzhou, China<br>
+          Research Intern @ Ant Group (Ling team), Hangzhou, China<br>
           06/2024-01/2025<br>
           Worked on data efficient LLM mid-training
 
@@ -73,7 +74,7 @@ entries:
           [ICML 2026], <a href='https://arxiv.org/abs/2601.22384'>Graph is a Substrate Across Data Modalities</a><br>
           Authors: Ziming Li, Xiaoming Wu, Zehong Wang, <u>Jiazheng Li</u>, Yijun Tian, Jinhe Bi, Yunpu Ma, Yanfang Ye, Chuxu Zhang
       - title: |
-          [Arxiv 2026], <a href='https://arxiv.org/abs/2602.09258v1'>Generalizing GNNs with Tokenized Mixture of Experts</a><br>
+          [KDD 2026], <a href='https://arxiv.org/abs/2602.09258v1'>Generalizing GNNs with Tokenized Mixture of Experts</a><br>
           Authors: Xiaoguang Guo, Zehong Wang, <u>Jiazheng Li</u>, Shawn Spitzel, Qi Yang, Kaize Ding, Jundong Li, Chuxu Zhang
       - title: |
           [Arxiv 2025], <a href='https://arxiv.org/abs/2512.21106'>Semantic Refinement with LLMs for Graph Representations</a><br>
