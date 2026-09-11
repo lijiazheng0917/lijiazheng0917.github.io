@@ -43,27 +43,33 @@ entries:
       - title: |
           Algorithm Engineer Intern @ Alibaba (Accio Work team), Bay Area, USA<br>
           05/2026-08/2026<br>
-          Worked on building cowork agents via post-training.
+          Co-developed the end-to-end post-training of Occamy-1.0, an open-weights 35B-A3B co-work agent model.
+          <a href='https://accio-lab.github.io/occamy/'>[Website]</a>
       - title: |
           Applied Scientist Intern @ Amazon (Agent customization team), Bay Area, USA<br>
           06/2025-08/2025<br>
-          Worked on step-level credit assignment for long-horizon agents.
+          Designed a step-level credit assignment algorithm for training long-horizon LLM agents with RL.
+          <a href='https://aclanthology.org/2026.findings-eacl.247.pdf'>[EACL 2026 Paper]</a>
       - title: |
           Research Intern @ Ant Group (Ling team), Hangzhou, China<br>
           06/2024-01/2025<br>
-          Worked on mathmatical data selection for LLM mid-training.
+          Designed a skill-targeted data selection algorithm for mid-training of large language models.
+          <a href='https://arxiv.org/pdf/2503.14917'>[ICML 2025 Paper]</a>
 
   - title: Publications
     entries:
       - title: |
-          [Arxiv 2026], <a href='https://arxiv.org/abs/2605.08271'>Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning</a><br>
-          Authors: <u>Jiazheng Li</u>, Chi-Hao Wu, Yunze Liu, Kaize Ding, Jundong Li, Chuxu Zhang
+          [Tech Report], <a href='https://github.com/Accio-Lab/occamy/blob/main/report/occamy1.0.pdf'>Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work</a><br>
+          Authors: Accio Team
       - title: |
           [EACL 2026 Findings], <a href='https://arxiv.org/abs/2510.20022'>SALT: Step-level Advantage Assignment for Long-horizon Agents via Trajectory Graph</a><br>
           Authors: <u>Jiazheng Li</u>, Yawei Wang, David Yan, Yijun Tian, Zhichao Xu, Huan Song, Panpan Xu, Lin Lee Cheong
       - title: |
           [ICML 2025], <a href='https://arxiv.org/abs/2503.14917'>MASS: MAthematical Data Selection via Skill Graphs for Pretraining Large Language Models</a><br>
           Authors: <u>Jiazheng Li</u>*, Lu Yu*, Qing Cui, Zhiqiang Zhang, Jun Zhou, Yanfang Ye, Chuxu Zhang
+      - title: |
+          [Arxiv 2026], <a href='https://arxiv.org/abs/2605.08271'>Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning</a><br>
+          Authors: <u>Jiazheng Li</u>, Chi-Hao Wu, Yunze Liu, Kaize Ding, Jundong Li, Chuxu Zhang
       - title: |
           [TMLR 2025], <a href='https://openreview.net/forum?id=W50i7r3DHE'>Instance-Aware Graph Prompt Learning</a><br>
           Authors: <u>Jiazheng Li</u>, Jundong Li, Chuxu Zhang
