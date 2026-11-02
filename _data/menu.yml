@@ -1,99 +1,101 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
-  - title: About me
-    entries:
-      - title: <img src="/assets/img/jiazheng.png" alt="Jiazheng Li" height="350" />
-      - title: A fifth-year CSE PhD student at UConn
-      - title: "Advisor: Prof. <a href=\"https://chuxuzhang.github.io/\">Chuxu Zhang</a>"
-      - title: Research interests
-        entries:
-          - title: Everything about LLMs
-      - title: Contact me
-        entries:
-          - title: "jiazheng.li@uconn.edu"
-          - title: "<a href=\"https://github.com/lijiazheng0917\">GitHub</a>"
-          - title: "<a href=\"https://www.linkedin.com/in/jiazheng-li-730169259/\">LinkedIn</a>"
-          - title: "<a href=\"https://scholar.google.com/citations?user=uxxcR34AAAAJ&hl=en\">Google Scholar</a>"
-      - title: Personal life
-        entries:
-          - title: I grew up in China. My Chinese name is 李嘉政.
-          - title: I love sports, especially basketball and soccer. I'm a fan of Real Madrid and LA Lakers.
-          - title: I love animals (except for bugs). I have a <a href="/assets/img/cat.jpg">cat</a> and a <a href="/assets/img/dog.jpg">dog</a>.
-          - title: I love listening to R&B and Hip-Hop songs.
-          - title: I love fitness.
-  - title: Education
-    entries:
-      - title: |
-          PhD student in Computer Science (Transferred)<br>
-          University of Connecticut, CT, USA<br>
-          01/2025-12/2026(expected)
-      - title: |
-          PhD student in Computer Science<br>
-          Brandeis University, MA, USA<br>
-          08/2022-12/2024
-      - title: |
-          B.E. in Biomedical Engineering<br>
-          Shanghai Jiao Tong University, Shanghai, China<br>
-          09/2017-06/2021
+entries: []
 
-  - title: Industry Experience
-    entries:
-      - title: |
-          Algorithm Engineer Intern @ Alibaba (Accio Work team), Bay Area, USA<br>
-          05/2026-08/2026<br>
-          Co-developed the end-to-end post-training of Occamy-1.0, an open-weights 35B-A3B co-work agent model.
-          <a href='https://accio-lab.github.io/occamy/'>[Website]</a>
-      - title: |
-          Applied Scientist Intern @ Amazon (Agent customization team), Bay Area, USA<br>
-          06/2025-08/2025<br>
-          Designed a step-level credit assignment algorithm for training long-horizon LLM agents with RL.
-          <a href='https://aclanthology.org/2026.findings-eacl.247.pdf'>[EACL 2026 Paper]</a>
-      - title: |
-          Research Intern @ Ant Group (Ling team), Hangzhou, China<br>
-          06/2024-01/2025<br>
-          Designed a skill-targeted data selection algorithm for mid-training of large language models.
-          <a href='https://arxiv.org/pdf/2503.14917'>[ICML 2025 Paper]</a>
 
-  - title: Publications
-    entries:
-      - title: |
-          [Tech Report], <a href='https://github.com/Accio-Lab/occamy/blob/main/report/occamy1.0.pdf'>Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work</a><br>
-          Authors: Accio Team
-      - title: |
-          [EACL 2026 Findings], <a href='https://arxiv.org/abs/2510.20022'>SALT: Step-level Advantage Assignment for Long-horizon Agents via Trajectory Graph</a><br>
-          Authors: <u>Jiazheng Li</u>, Yawei Wang, David Yan, Yijun Tian, Zhichao Xu, Huan Song, Panpan Xu, Lin Lee Cheong
-      - title: |
-          [ICML 2025], <a href='https://arxiv.org/abs/2503.14917'>MASS: MAthematical Data Selection via Skill Graphs for Pretraining Large Language Models</a><br>
-          Authors: <u>Jiazheng Li</u>*, Lu Yu*, Qing Cui, Zhiqiang Zhang, Jun Zhou, Yanfang Ye, Chuxu Zhang
-      - title: |
-          [NeurIPS 2026], <a href='https://arxiv.org/abs/2605.08271'>Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning</a><br>
-          Authors: <u>Jiazheng Li</u>, Chi-Hao Wu, Yunze Liu, Kaize Ding, Jundong Li, Chuxu Zhang
-      - title: |
-          [TMLR 2025], <a href='https://openreview.net/forum?id=W50i7r3DHE'>Instance-Aware Graph Prompt Learning</a><br>
-          Authors: <u>Jiazheng Li</u>, Jundong Li, Chuxu Zhang
-      - title: |
-          [CIKM 2023], <a href='https://dl.acm.org/doi/abs/10.1145/3583780.3614909'>Heterogeneous Temporal Graph Neural Network Explainer</a><br>
-          Authors: <u>Jiazheng Li</u>, Chunhui Zhang, Chuxu Zhang
-      - title: |
-          [ICML 2026], <a href='https://arxiv.org/abs/2601.22384'>Graph is a Substrate Across Data Modalities</a><br>
-          Authors: Ziming Li, Xiaoming Wu, Zehong Wang, <u>Jiazheng Li</u>, Yijun Tian, Jinhe Bi, Yunpu Ma, Yanfang Ye, Chuxu Zhang
-      - title: |
-          [KDD 2026], <a href='https://arxiv.org/abs/2602.09258v1'>Generalizing GNNs with Tokenized Mixture of Experts</a><br>
-          Authors: Xiaoguang Guo, Zehong Wang, <u>Jiazheng Li</u>, Shawn Spitzel, Qi Yang, Kaize Ding, Jundong Li, Chuxu Zhang
-      - title: |
-          [Arxiv 2025], <a href='https://arxiv.org/abs/2512.21106'>Semantic Refinement with LLMs for Graph Representations</a><br>
-          Authors: Safal Thapaliya, Zehong Wang, <u>Jiazheng Li</u>, Ziming Li, Yanfang Ye, Chuxu Zhang
-      - title: |
-          [Arxiv 2025], <a href='https://arxiv.org/abs/2505.15116'>Graph Foundation Models: A Comprehensive Survey</a><br>
-          Authors: Zehong Wang, Zheyuan Liu, Tianyi Ma, <u>Jiazheng Li</u>, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye
-      - title: |
-          [KDD 2025], <a href='https://arxiv.org/abs/2506.08326'>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</a><br>
-          Authors: Xingbo Fu, Zehong Wang, Zihan Chen, <u>Jiazheng Li</u>, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li
-      - title: |
-          [CIKM 2023], <a href='https://dl.acm.org/doi/abs/10.1145/3583780.3614765'>A Multi-Modality Framework for Drug-Drug Interaction Prediction by Harnessing Multi-source Data</a><br>
-          Authors: Qianlong Wen, <u>Jiazheng Li</u>, Chuxu Zhang, Yanfang Ye
+#   - title: About me
+#     entries:
+#       - title: <img src="/assets/img/jiazheng.png" alt="Jiazheng Li" height="350" />
+#       - title: A fifth-year CSE PhD student at UConn
+#       - title: "Advisor: Prof. <a href=\"https://chuxuzhang.github.io/\">Chuxu Zhang</a>"
+#       - title: Research interests
+#         entries:
+#           - title: Everything about LLMs
+#       - title: Contact me
+#         entries:
+#           - title: "jiazheng.li@uconn.edu"
+#           - title: "<a href=\"https://github.com/lijiazheng0917\">GitHub</a>"
+#           - title: "<a href=\"https://www.linkedin.com/in/jiazheng-li-730169259/\">LinkedIn</a>"
+#           - title: "<a href=\"https://scholar.google.com/citations?user=uxxcR34AAAAJ&hl=en\">Google Scholar</a>"
+#       - title: Personal life
+#         entries:
+#           - title: I grew up in China. My Chinese name is 李嘉政.
+#           - title: I love sports, especially basketball and soccer. I'm a fan of Real Madrid and LA Lakers.
+#           - title: I love animals (except for bugs). I have a <a href="/assets/img/cat.jpg">cat</a> and a <a href="/assets/img/dog.jpg">dog</a>.
+#           - title: I love listening to R&B and Hip-Hop songs.
+#           - title: I love fitness.
+#   - title: Education
+#     entries:
+#       - title: |
+#           PhD student in Computer Science (Transferred)<br>
+#           University of Connecticut, CT, USA<br>
+#           01/2025-12/2026(expected)
+#       - title: |
+#           PhD student in Computer Science<br>
+#           Brandeis University, MA, USA<br>
+#           08/2022-12/2024
+#       - title: |
+#           B.E. in Biomedical Engineering<br>
+#           Shanghai Jiao Tong University, Shanghai, China<br>
+#           09/2017-06/2021
+
+#   - title: Industry Experience
+#     entries:
+#       - title: |
+#           Algorithm Engineer Intern @ Alibaba (Accio Work team), Bay Area, USA<br>
+#           05/2026-08/2026<br>
+#           Co-developed the end-to-end post-training of Occamy-1.0, an open-weights 35B-A3B co-work agent model.
+#           <a href='https://accio-lab.github.io/occamy/'>[Website]</a>
+#       - title: |
+#           Applied Scientist Intern @ Amazon (Agent customization team), Bay Area, USA<br>
+#           06/2025-08/2025<br>
+#           Designed a step-level credit assignment algorithm for training long-horizon LLM agents with RL.
+#           <a href='https://aclanthology.org/2026.findings-eacl.247.pdf'>[EACL 2026 Paper]</a>
+#       - title: |
+#           Research Intern @ Ant Group (Ling team), Hangzhou, China<br>
+#           06/2024-01/2025<br>
+#           Designed a skill-targeted data selection algorithm for mid-training of large language models.
+#           <a href='https://arxiv.org/pdf/2503.14917'>[ICML 2025 Paper]</a>
+
+#   - title: Publications
+#     entries:
+#       - title: |
+#           [Tech Report], <a href='https://github.com/Accio-Lab/occamy/blob/main/report/occamy1.0.pdf'>Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work</a><br>
+#           Authors: Accio Team
+#       - title: |
+#           [EACL 2026 Findings], <a href='https://arxiv.org/abs/2510.20022'>SALT: Step-level Advantage Assignment for Long-horizon Agents via Trajectory Graph</a><br>
+#           Authors: <u>Jiazheng Li</u>, Yawei Wang, David Yan, Yijun Tian, Zhichao Xu, Huan Song, Panpan Xu, Lin Lee Cheong
+#       - title: |
+#           [ICML 2025], <a href='https://arxiv.org/abs/2503.14917'>MASS: MAthematical Data Selection via Skill Graphs for Pretraining Large Language Models</a><br>
+#           Authors: <u>Jiazheng Li</u>*, Lu Yu*, Qing Cui, Zhiqiang Zhang, Jun Zhou, Yanfang Ye, Chuxu Zhang
+#       - title: |
+#           [NeurIPS 2026], <a href='https://arxiv.org/abs/2605.08271'>Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning</a><br>
+#           Authors: <u>Jiazheng Li</u>, Chi-Hao Wu, Yunze Liu, Kaize Ding, Jundong Li, Chuxu Zhang
+#       - title: |
+#           [TMLR 2025], <a href='https://openreview.net/forum?id=W50i7r3DHE'>Instance-Aware Graph Prompt Learning</a><br>
+#           Authors: <u>Jiazheng Li</u>, Jundong Li, Chuxu Zhang
+#       - title: |
+#           [CIKM 2023], <a href='https://dl.acm.org/doi/abs/10.1145/3583780.3614909'>Heterogeneous Temporal Graph Neural Network Explainer</a><br>
+#           Authors: <u>Jiazheng Li</u>, Chunhui Zhang, Chuxu Zhang
+#       - title: |
+#           [ICML 2026], <a href='https://arxiv.org/abs/2601.22384'>Graph is a Substrate Across Data Modalities</a><br>
+#           Authors: Ziming Li, Xiaoming Wu, Zehong Wang, <u>Jiazheng Li</u>, Yijun Tian, Jinhe Bi, Yunpu Ma, Yanfang Ye, Chuxu Zhang
+#       - title: |
+#           [KDD 2026], <a href='https://arxiv.org/abs/2602.09258v1'>Generalizing GNNs with Tokenized Mixture of Experts</a><br>
+#           Authors: Xiaoguang Guo, Zehong Wang, <u>Jiazheng Li</u>, Shawn Spitzel, Qi Yang, Kaize Ding, Jundong Li, Chuxu Zhang
+#       - title: |
+#           [Arxiv 2025], <a href='https://arxiv.org/abs/2512.21106'>Semantic Refinement with LLMs for Graph Representations</a><br>
+#           Authors: Safal Thapaliya, Zehong Wang, <u>Jiazheng Li</u>, Ziming Li, Yanfang Ye, Chuxu Zhang
+#       - title: |
+#           [Arxiv 2025], <a href='https://arxiv.org/abs/2505.15116'>Graph Foundation Models: A Comprehensive Survey</a><br>
+#           Authors: Zehong Wang, Zheyuan Liu, Tianyi Ma, <u>Jiazheng Li</u>, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye
+#       - title: |
+#           [KDD 2025], <a href='https://arxiv.org/abs/2506.08326'>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</a><br>
+#           Authors: Xingbo Fu, Zehong Wang, Zihan Chen, <u>Jiazheng Li</u>, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li
+#       - title: |
+#           [CIKM 2023], <a href='https://dl.acm.org/doi/abs/10.1145/3583780.3614765'>A Multi-Modality Framework for Drug-Drug Interaction Prediction by Harnessing Multi-source Data</a><br>
+#           Authors: Qianlong Wen, <u>Jiazheng Li</u>, Chuxu Zhang, Yanfang Ye
 
 #   - title: Fellows & Awards
 #     entries:
